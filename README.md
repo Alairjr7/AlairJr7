@@ -1,49 +1,18 @@
-<h1 align="left">Desenvolvedor Fullstack em formação !</h1>
+<h1 align="center">Olá! Sou o Alair Junior, desenvolvedor front-end júnior</h1>
+<h3 align="center">👋 Olá! Meu nome é Alair Junior, sou Desenvolvedor Front-End Júnior com foco em desenvolvimento web. Formado em Técnico de Informática pela EEPAFA, venho construindo minha experiência prática através de projetos pessoais e freelas, sempre buscando criar interfaces modernas e funcionais. Minha pilha atual envolve HTML, CSS, JavaScript, React, Tailwind CSS e Node.js. Também utilizo bastante o Figma, seja para criar layouts ou para transformar designs em código. Sou apaixonado por tecnologia e estou sempre em busca de aprender novas ferramentas e boas práticas de desenvolvimento.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alairjr7&label=Profile%20views&color=0e75b6&style=flat" alt="alairjr7" /> </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlairJr7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlairJr7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJ5ZnVqandyc2UxMXIzOXZwcjJtaGtjMHNkcW81bzZjcGlhM21ndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj2Xe1q2zoWp2WsXbk/giphy.gif" align="right" height="300" alt="animated GIF"/>
-</div>
-   
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alairjr7" alt="alairjr7" /></a> </p>
 
-###
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alair júnior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alair júnior" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
-</div>
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-###
-    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alairjr7&show_icons=true&locale=en&layout=compact" alt="alairjr7" /></p>
 
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<h2 align ="left">Sobre Mim</h2>
-
-👋 Olá! Eu sou o Alair, um desenvolvedor em formação apaixonado por tecnologia e programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas e já tenho um histórico de projetos nas seguintes linguagens e tecnologias:
-
-- **HTML, CSS e JavaScript**: Criando interfaces web interativas e responsivas.
-- **React**: Desenvolvendo aplicações web modernas e dinâmicas.
-- **C++, C#, PHP, Java e MySQL**: Trabalhando em projetos variados que vão desde aplicações de console até sistemas web.
-
-Sou formado em Técnico de Informática pela EEPAFA e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Aqui no meu GitHub, você encontrará alguns dos meus projetos e contribuições. Estou aberto a colaborações e sempre pronto para novos desafios!
-
-📫 Vamos nos conectar? 
-- [Instagram](https://instagram.com/alaairjr_/)
-- [Linkedin](https://linkedin.com/in/alair-junior-494260273/) 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alairjr7&show_icons=true&locale=en" alt="alairjr7" /></p>
