@@ -1,18 +1,28 @@
-<h1 align="center">Olá! Sou o Alair Junior, desenvolvedor front-end júnior</h1>
-<h3 align="center">👋 Olá! Meu nome é Alair Junior, sou Desenvolvedor Front-End Júnior com foco em desenvolvimento web. Formado em Técnico de Informática pela EEPAFA, venho construindo minha experiência prática através de projetos pessoais e freelas, sempre buscando criar interfaces modernas e funcionais. Minha pilha atual envolve HTML, CSS, JavaScript, React, Tailwind CSS e Node.js. Também utilizo bastante o Figma, seja para criar layouts ou para transformar designs em código. Sou apaixonado por tecnologia e estou sempre em busca de aprender novas ferramentas e boas práticas de desenvolvimento.</h3>
+<table>
+  <tr>
+    <td>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alairjr7&label=Profile%20views&color=0e75b6&style=flat" alt="alairjr7" /> </p>
+<h1>Olá, meu nome é Alair Júnior! </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alairjr7" alt="alairjr7" /></a> </p>
+ **Desenvolvedor Front-End Júnior**, aqui vocês podem dar uma olhada em alguns projetos que me ajudam a aplicar na prática tudo o que venho aprendendo. Trabalho com HTML, CSS, JavaScript, React, Tailwind CSS e Node.js. Também utilizo ferramentas como Figma, para criar interfaces modernas e funcionais. Sempre buscando evoluir e melhorar minhas habilidades no desenvolvimento web.
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alair júnior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alair júnior" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alairjr7&show_icons=true&locale=en&layout=compact" alt="alairjr7" /></p>
+**Linguagens:** HTML, CSS, JavaScript, React, Tailwind CSS, Node.js
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alairjr7&show_icons=true&locale=en" alt="alairjr7" /></p>
+
+**Outros:** Figma, Git
+
+
+**Contatos:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alairjúnior)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alaairjr_/)
+
+
+</td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzZ2JjNG9oMHJocW9iaWl6YWZwY3Z1bXZlemd3MDBibjBtMnBrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="300" alt="Coding Gif">
+    </td>
+  </tr>
+</table>
